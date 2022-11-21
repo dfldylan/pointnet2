@@ -1,0 +1,5 @@
+part_seg/pred
+part_seg/log
+data/shapenetcore_partanno_segmentation_benchmark_v0_normal*
+*.pyc
+.DS_Store
